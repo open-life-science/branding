@@ -2,24 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
    height="210mm"
    viewBox="0 0 297 210"
    version="1.1"
    id="svg1190"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="back.svg"
-   inkscape:export-filename="back.png"
+   inkscape:export-filename="/home/bebatut/Documents/projects/open-life-science/branding/flyer/ols-7-8/back.png"
    inkscape:export-xdpi="320"
-   inkscape:export-ydpi="320"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:export-ydpi="320">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35000001"
-     inkscape:cx="569.99998"
-     inkscape:cy="471.42856"
+     inkscape:zoom="0.49497476"
+     inkscape:cx="48.571423"
+     inkscape:cy="579.99999"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="762"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
@@ -76,35 +76,35 @@
        x="0.53453887"
        y="277" />
     <rect
-       style="fill:#149d3d;fill-opacity:0.81115878;stroke-width:0.266779"
+       style="fill:#149d3d;fill-opacity:0.86274511;stroke-width:0.266779"
        id="rect6026-0-9-2"
        width="99.424271"
        height="22.272461"
        x="0.53453887"
        y="232.4837" />
     <rect
-       style="fill:#149d3d;fill-opacity:0.81115878;stroke-width:0.266779"
+       style="fill:#149d3d;fill-opacity:0.86274511;stroke-width:0.266779"
        id="rect6026-0-9"
        width="99.424271"
        height="22.272461"
        x="0.53453887"
        y="189.5424" />
     <rect
-       style="fill:#149d3d;fill-opacity:0.81115878;stroke-width:0.266779"
+       style="fill:#149d3d;fill-opacity:0.86274511;stroke-width:0.266779"
        id="rect6026-0"
        width="99.424271"
        height="22.272461"
        x="0.53453887"
        y="146.33383" />
     <rect
-       style="fill:#149d3d;fill-opacity:0.81115878;stroke-width:0.266779"
+       style="fill:#149d3d;fill-opacity:0.86274511;stroke-width:0.266779"
        id="rect6026-4-0"
        width="197.77945"
        height="21.737915"
        x="99.958801"
        y="255.02344" />
     <rect
-       style="fill:#149d3d;fill-opacity:0.81115878;stroke-width:0.266779"
+       style="fill:#149d3d;fill-opacity:0.86274511;stroke-width:0.266779"
        id="rect6026"
        width="197.77945"
        height="21.737915"
@@ -128,10 +128,9 @@
            height="224.28574"
            width="375.71429"
            id="rect2091-5" /></flowRegion><flowPara
-         id="flowPara2093-8" /></flowRoot>
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,54.010554,70.479302)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowPara2093-8" /></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,54.010554,70.478922)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66669846px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2186"
        xml:space="preserve"><flowRegion
          style="fill:#149d3d;fill-opacity:1"
@@ -143,10 +142,9 @@
            width="319.20819"
            id="rect2190" /></flowRegion><flowPara
          id="flowPara2917"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;fill:#149d3d;fill-opacity:1">Application period</flowPara></flowRoot>
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,52.979921,49.800343)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#149d3d;fill-opacity:1">Application period</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,53.267703,49.867646)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66669846px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2186-5"
        xml:space="preserve"><flowRegion
          style="fill:#ffffff;fill-opacity:1"
@@ -158,9 +156,8 @@
            width="319.20819"
            id="rect2190-05" /></flowRegion><flowPara
          id="flowPara2917-2"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Future cohorts</flowPara></flowRoot>
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,47.71306,115.92746)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'">Future cohorts</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,47.71306,115.73411)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2186-4"
        xml:space="preserve"><flowRegion
@@ -173,9 +170,8 @@
            width="359.61429"
            id="rect2190-0" /></flowRegion><flowPara
          id="flowPara2192-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;fill:#149d3d;fill-opacity:1">Cohort announcement</flowPara></flowRoot>
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,47.71306,137.13085)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#149d3d;fill-opacity:1">Cohort announcement</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,47.71306,136.93749)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2186-4-3"
        xml:space="preserve"><flowRegion
@@ -188,9 +184,8 @@
            width="359.61429"
            id="rect2190-0-5" /></flowRegion><flowPara
          id="flowPara2192-3-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:Arial">Cohort start</flowPara></flowRoot>
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,47.930101,159.40331)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Raleway;-inkscape-font-specification:Raleway">Cohort start</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,47.930101,159.20995)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2186-4-3-5"
        xml:space="preserve"><flowRegion
@@ -203,9 +198,8 @@
            width="359.61429"
            id="rect2190-0-5-7" /></flowRegion><flowPara
          id="flowPara2192-3-6-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;fill:#149d3d;fill-opacity:1">Cohort end</flowPara></flowRoot>
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,39.062683,94.007648)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#149d3d;fill-opacity:1">Cohort end</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,39.062683,93.996195)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2186-2"
        xml:space="preserve"><flowRegion
@@ -218,8 +212,7 @@
            width="426.28436"
            id="rect2190-4" /></flowRegion><flowPara
          id="flowPara2192-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:Arial">Q&amp;A webinars</flowPara></flowRoot>
-    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Raleway;-inkscape-font-specification:Raleway">Q&amp;A webinars</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,91.594338,119.8032)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2121-5"
@@ -232,9 +225,8 @@
            height="355.5737"
            width="690.94434"
            id="rect2125-9" /></flowRegion><flowPara
-         style="fill:#149d3d;fill-opacity:1"
-         id="flowPara2137-4">Visit our website: openlifesci.org</flowPara></flowRoot>
-    <g
+         style="fill:#149d3d;fill-opacity:1;-inkscape-font-specification:'Raleway Bold';font-family:Raleway;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="flowPara2137-4">Visit our website: openlifesci.org</flowPara></flowRoot>    <g
        style="fill:#ffffff;fill-opacity:1"
        transform="translate(8.7383276,-3.1990586)"
        id="g2052">
@@ -252,8 +244,7 @@
              y="506.55795"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara12034-4-1-1-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1">openlifesci </flowPara></flowRoot>
-      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#ffffff;fill-opacity:1">openlifesci </flowPara></flowRoot>      <path
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-opacity:1;stroke-width:0.0195313"
          d="m 24.326268,288.69685 c 0.0063,0.0889 0.0063,0.17768 0.0063,0.26651 0,2.70939 -2.062176,5.83123 -5.831233,5.83123 -1.161178,0 -2.239854,-0.33631 -3.14722,-0.92004 0.164981,0.019 0.323596,0.0253 0.494924,0.0253 0.958109,0 1.840104,-0.32359 2.544424,-0.87564 -0.90102,-0.019 -1.6561,-0.60913 -1.916257,-1.42132 0.126912,0.019 0.253809,0.0317 0.387071,0.0317 0.184005,0 0.368028,-0.0253 0.539338,-0.0699 -0.939086,-0.19038 -1.643425,-1.01523 -1.643425,-2.01143 v -0.0253 c 0.272834,0.15221 0.59012,0.24746 0.926391,0.26013 -0.552034,-0.36802 -0.913695,-0.99619 -0.913695,-1.70686 0,-0.3807 0.101506,-0.72969 0.27918,-1.03426 1.008891,1.24366 2.525401,2.05583 4.225895,2.14468 -0.03172,-0.1522 -0.05076,-0.3109 -0.05076,-0.46954 0,-1.12945 0.913714,-2.0495 2.049499,-2.0495 0.5901,0 1.123091,0.24746 1.497468,0.64722 0.463184,-0.0889 0.907347,-0.26016 1.300766,-0.49493 -0.152301,0.47591 -0.4759,0.87565 -0.90102,1.12944 0.412444,-0.0444 0.812191,-0.1587 1.180202,-0.31726 -0.279143,0.40608 -0.628147,0.76775 -1.027895,1.05964 z"
@@ -263,7 +254,7 @@
        xml:space="preserve"
        id="flowRoot2186-7-8"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,127.80618,50.97891)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,127.80618,50.228822)"><flowRegion
          id="flowRegion2188-8-4"
          style="fill:#149d3d;fill-opacity:1"><rect
            id="rect2190-8-1"
@@ -272,12 +263,12 @@
            x="-171.72594"
            y="385.10834"
            style="fill:#149d3d;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara2192-38-7">OLS-7</flowPara></flowRoot>
-    <flowRoot
+         id="flowPara2192-38-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'">OLS-7</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2186-7-8-3"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,221.92094,50.97891)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,221.92094,50.728355)"><flowRegion
          id="flowRegion2188-8-4-0"
          style="fill:#149d3d;fill-opacity:1"><rect
            id="rect2190-8-1-48"
@@ -286,12 +277,12 @@
            x="-171.72594"
            y="385.10834"
            style="fill:#149d3d;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara2192-38-7-7">OLS-8</flowPara></flowRoot>
-    <flowRoot
+         id="flowPara2192-38-7-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'">OLS-8</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2186-7-8-1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,254.76421,71.57312)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,254.76421,71.354448)"><flowRegion
          id="flowRegion2188-8-4-8"
          style="text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"><rect
            id="rect2190-8-1-7"
@@ -301,12 +292,11 @@
            y="385.10834"
            style="text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2676"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1">June 1 - July 7, 2023</flowPara></flowRoot>
-    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#ffffff;fill-opacity:1">June 1 - July 7, 2023</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2186-7-8-1-9"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,194.83603,90.175324)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,194.83603,89.811853)"><flowRegion
          id="flowRegion2188-8-4-8-1"
          style="text-align:start;text-anchor:start;fill:#149d3d;fill-opacity:1"><rect
            id="rect2190-8-1-7-0"
@@ -316,14 +306,13 @@
            y="385.10834"
            style="text-align:start;text-anchor:start;fill:#149d3d;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2676-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#149d3d;fill-opacity:1">Mid June &amp; </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#149d3d;fill-opacity:1"
-         id="flowPara3141">1st week of July, 2023</flowPara></flowRoot>
-    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:center;text-anchor:middle;fill:#149d3d;fill-opacity:1">Mid June &amp; </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:center;text-anchor:middle;fill:#149d3d;fill-opacity:1"
+         id="flowPara3141">1st week of July, 2023</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2186-7-8-1-9-0-1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,255.63413,136.34123)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,255.63413,136.07813)"><flowRegion
          id="flowRegion2188-8-4-8-1-6-0"
          style="text-align:start;text-anchor:start;fill:#149d3d;fill-opacity:1"><rect
            id="rect2190-8-1-7-0-0-1"
@@ -331,14 +320,13 @@
            height="183.84775"
            x="-171.72594"
            y="385.10834"
-           style="text-align:start;text-anchor:start;fill:#149d3d;fill-opacity:1;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#149d3d;fill-opacity:1"
-         id="flowPara3141-2-9">September 18, 2023</flowPara></flowRoot>
-    <flowRoot
+           style="text-align:start;text-anchor:start;fill:#149d3d;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#149d3d;fill-opacity:1"
+         id="flowPara3141-2-9">September 18, 2023</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2186-7-8-1-9-0-1-8"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#d9efe0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,261.36225,158.52481)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,261.36225,158.22147)"><flowRegion
          id="flowRegion2188-8-4-8-1-6-0-1"
          style="text-align:start;text-anchor:start;fill:#d9efe0;fill-opacity:1"><rect
            id="rect2190-8-1-7-0-0-1-4"
@@ -347,13 +335,12 @@
            x="-171.72594"
            y="385.10834"
            style="text-align:start;text-anchor:start;fill:#d9efe0;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#d9efe0;fill-opacity:1"
-         id="flowPara3141-2-9-8">January 15, 2024</flowPara></flowRoot>
-    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#d9efe0;fill-opacity:1"
+         id="flowPara3141-2-9-8">January 15, 2024</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2186-7-8-1-6"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,156.22796,68.39812)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,156.22796,68.073923)"><flowRegion
          id="flowRegion2188-8-4-8-8"
          style="text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"><rect
            id="rect2190-8-1-7-3"
@@ -362,13 +349,12 @@
            x="-171.72594"
            y="385.10834"
            style="text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-         id="flowPara5530">December 1, 2022 - January 15, 2023</flowPara></flowRoot>
-    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara5530">December 1, 2022 - January 15, 2023</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2186-7-8-1-9-6"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,101.05646,90.466779)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,101.05646,90.135703)"><flowRegion
          id="flowRegion2188-8-4-8-1-1"
          style="text-align:start;text-anchor:start;fill:#149d3d;fill-opacity:1"><rect
            id="rect2190-8-1-7-0-9"
@@ -378,14 +364,13 @@
            y="385.10834"
            style="text-align:start;text-anchor:start;fill:#149d3d;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2676-9-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#149d3d;fill-opacity:1">Mid Dec., 2022 &amp; </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#149d3d;fill-opacity:1"
-         id="flowPara3141-7">2nd week of Jan., 2023</flowPara></flowRoot>
-    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:center;text-anchor:middle;fill:#149d3d;fill-opacity:1">Mid Dec., 2022 &amp; </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:center;text-anchor:middle;fill:#149d3d;fill-opacity:1"
+         id="flowPara3141-7">2nd week of Jan., 2023</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2186-7-8-1-9-0-1-5"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,165.13258,136.25235)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,165.13258,136.03368)"><flowRegion
          id="flowRegion2188-8-4-8-1-6-0-2"
          style="text-align:start;text-anchor:start;fill:#149d3d;fill-opacity:1"><rect
            id="rect2190-8-1-7-0-0-1-49"
@@ -393,14 +378,13 @@
            height="183.84775"
            x="-171.72594"
            y="385.10834"
-           style="text-align:start;text-anchor:start;fill:#149d3d;fill-opacity:1;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#149d3d;fill-opacity:1"
-         id="flowPara3141-2-9-4">February 27, 2023</flowPara></flowRoot>
-    <flowRoot
+           style="text-align:start;text-anchor:start;fill:#149d3d;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#149d3d;fill-opacity:1"
+         id="flowPara3141-2-9-4">February 27, 2023</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2186-7-8-1-9-0-1-8-4"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#d9efe0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,173.11794,158.81627)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,173.11794,158.54532)"><flowRegion
          id="flowRegion2188-8-4-8-1-6-0-1-7"
          style="text-align:start;text-anchor:start;fill:#d9efe0;fill-opacity:1"><rect
            id="rect2190-8-1-7-0-0-1-4-9"
@@ -409,9 +393,8 @@
            x="-171.72594"
            y="385.10834"
            style="text-align:start;text-anchor:start;fill:#d9efe0;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#d9efe0;fill-opacity:1"
-         id="flowPara3141-2-9-8-5">June 12, 2023</flowPara></flowRoot>
-    <image
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#d9efe0;fill-opacity:1"
+         id="flowPara3141-2-9-8-5">June 12, 2023</flowPara></flowRoot>    <image
        width="100"
        height="56.222546"
        preserveAspectRatio="none"
@@ -420,8 +403,8 @@
        x="-6.3948846e-14"
        y="88.888725" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,94.839749,-59.524262)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,94.839749,-60.024035)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66669846px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2121"
        xml:space="preserve"><flowRegion
          style="fill:#ffffff;fill-opacity:1"
@@ -432,16 +415,15 @@
            height="355.5737"
            width="690.94434"
            id="rect2125" /></flowRegion><flowPara
-         id="flowPara2127"><flowSpan
-   id="flowSpan2131"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1">A</flowSpan> mentoring &amp; training <flowSpan
-   id="flowSpan2133"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1">program </flowSpan><flowSpan
-   id="flowSpan2129"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1">for</flowSpan> Open Science Ambassadors </flowPara><flowPara
-         id="flowPara2137" /></flowRoot>
-    <rect
-       style="fill:#149d3d;fill-opacity:0.81115878;stroke-width:0.266779"
+         id="flowPara2127"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway">A <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
+   id="flowSpan1055">mentoring &amp; training</flowSpan> program for <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
+   id="flowSpan1057">Open Science Ambassadors</flowSpan> </flowPara><flowPara
+         id="flowPara2137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway" /></flowRoot>    <rect
+       style="fill:#149d3d;fill-opacity:0.86274511;stroke-width:0.266779"
        id="rect6026-4"
        width="197.77945"
        height="21.737915"
@@ -451,7 +433,7 @@
        xml:space="preserve"
        id="flowRoot2186-7-8-1-9-0"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,265.7131,115.04896)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,265.7131,114.74774)"><flowRegion
          id="flowRegion2188-8-4-8-1-6"
          style="text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"><rect
            id="rect2190-8-1-7-0-0"
@@ -460,13 +442,12 @@
            x="-171.72594"
            y="385.10834"
            style="text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1"
-         id="flowPara3141-2">August 1, 2023</flowPara></flowRoot>
-    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#ffffff;fill-opacity:1"
+         id="flowPara3141-2">August 1, 2023</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2186-7-8-1-9-0-8"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,167.48696,115.04896)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,167.48696,114.83029)"><flowRegion
          id="flowRegion2188-8-4-8-1-6-9"
          style="text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"><rect
            id="rect2190-8-1-7-0-0-7"
@@ -475,9 +456,8 @@
            x="-171.72594"
            y="385.10834"
            style="text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1"
-         id="flowPara3141-2-5">February 1, 2023</flowPara></flowRoot>
-  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#ffffff;fill-opacity:1"
+         id="flowPara3141-2-5">February 1, 2023</flowPara></flowRoot>  </g>
   <style
      type="text/css"
      id="style1954">

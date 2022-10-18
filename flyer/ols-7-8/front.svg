@@ -2,25 +2,25 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
    height="210mm"
    viewBox="0 0 297 210"
    version="1.1"
    id="svg1190"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="front.svg"
-   inkscape:export-filename="front.png"
+   inkscape:export-filename="/home/bebatut/Documents/projects/open-life-science/branding/flyer/ols-7-8/front.png"
    inkscape:export-xdpi="320"
-   inkscape:export-ydpi="320"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/">
+   inkscape:export-ydpi="320">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497476"
-     inkscape:cx="402.0407"
-     inkscape:cy="664.68036"
+     inkscape:zoom="0.35000001"
+     inkscape:cx="33.335031"
+     inkscape:cy="660.63975"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="762"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
@@ -123,10 +123,9 @@
            height="224.28574"
            width="375.71429"
            id="rect2091-5" /></flowRegion><flowPara
-         id="flowPara2093-8" /></flowRoot>
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,93.678059,-59.524262)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowPara2093-8" /></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,93.662698,-60.024035)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66669846px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2121"
        xml:space="preserve"><flowRegion
          style="fill:#ffffff;fill-opacity:1"
@@ -137,15 +136,13 @@
            height="355.5737"
            width="690.94434"
            id="rect2125" /></flowRegion><flowPara
-         id="flowPara2127"><flowSpan
-   id="flowSpan2131"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1">A</flowSpan> mentoring &amp; training <flowSpan
-   id="flowSpan2133"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1">program </flowSpan><flowSpan
-   id="flowSpan2129"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1">for</flowSpan> Open Science Ambassadors </flowPara><flowPara
-         id="flowPara2137" /></flowRoot>
-    <flowRoot
+         id="flowPara2127"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway">A <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
+   id="flowSpan1051">mentoring &amp; training</flowSpan> program for <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"
+   id="flowSpan1053">Open Science Ambassadors</flowSpan> </flowPara><flowPara
+         id="flowPara2137" /></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,39.201864,76.041449)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2186"
@@ -158,8 +155,8 @@
            height="149.50258"
            width="426.28436"
            id="rect2190" /></flowRegion><flowPara
-         id="flowPara2192">Sharing</flowPara></flowRoot>
-    <flowRoot
+         id="flowPara2192"
+         style="-inkscape-font-specification:'Raleway Bold';font-family:Raleway;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Sharing</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,39.138476,103.11924)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2186-4"
@@ -172,8 +169,8 @@
            height="149.50258"
            width="426.28436"
            id="rect2190-0" /></flowRegion><flowPara
-         id="flowPara2192-3">Connecting</flowPara></flowRoot>
-    <flowRoot
+         id="flowPara2192-3"
+         style="-inkscape-font-specification:'Raleway Bold';font-family:Raleway;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Connecting</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,38.99516,130.05922)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2186-2"
@@ -186,8 +183,8 @@
            height="149.50258"
            width="426.28436"
            id="rect2190-4" /></flowRegion><flowPara
-         id="flowPara2192-1">Empowering</flowPara></flowRoot>
-    <rect
+         id="flowPara2192-1"
+         style="-inkscape-font-specification:'Raleway Bold';font-family:Raleway;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Empowering</flowPara></flowRoot>    <rect
        y="277"
        x="100"
        height="20"
@@ -207,9 +204,8 @@
            height="355.5737"
            width="690.94434"
            id="rect2125-9" /></flowRegion><flowPara
-         style="fill:#ffffff;fill-opacity:1"
-         id="flowPara2137-4">Visit our website: openlifesci.org </flowPara></flowRoot>
-    <g
+         style="fill:#ffffff;fill-opacity:1;-inkscape-font-specification:'Raleway Bold';font-family:Raleway;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="flowPara2137-4">Visit our website: openlifesci.org </flowPara></flowRoot>    <g
        style="fill:#2ec65c;fill-opacity:1"
        transform="translate(8.7383276,-3.7336)"
        id="g2052">
@@ -227,8 +223,7 @@
              y="506.55795"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#149d3d;fill-opacity:1;" /></flowRegion><flowPara
            id="flowPara12034-4-1-1-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#149d3d;fill-opacity:1">openlifesci </flowPara></flowRoot>
-      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#149d3d;fill-opacity:1">openlifesci </flowPara></flowRoot>      <path
          inkscape:connector-curvature="0"
          style="fill:#149d3d;fill-opacity:1;stroke-width:0.01953132"
          d="m 24.326268,288.69685 c 0.0063,0.0889 0.0063,0.17768 0.0063,0.26651 0,2.70939 -2.062176,5.83123 -5.831233,5.83123 -1.161178,0 -2.239854,-0.33631 -3.14722,-0.92004 0.164981,0.019 0.323596,0.0253 0.494924,0.0253 0.958109,0 1.840104,-0.32359 2.544424,-0.87564 -0.90102,-0.019 -1.6561,-0.60913 -1.916257,-1.42132 0.126912,0.019 0.253809,0.0317 0.387071,0.0317 0.184005,0 0.368028,-0.0253 0.539338,-0.0699 -0.939086,-0.19038 -1.643425,-1.01523 -1.643425,-2.01143 v -0.0253 c 0.272834,0.15221 0.59012,0.24746 0.926391,0.26013 -0.552034,-0.36802 -0.913695,-0.99619 -0.913695,-1.70686 0,-0.3807 0.101506,-0.72969 0.27918,-1.03426 1.008891,1.24366 2.525401,2.05583 4.225895,2.14468 -0.03172,-0.1522 -0.05076,-0.3109 -0.05076,-0.46954 0,-1.12945 0.913714,-2.0495 2.049499,-2.0495 0.5901,0 1.123091,0.24746 1.497468,0.64722 0.463184,-0.0889 0.907347,-0.26016 1.300766,-0.49493 -0.152301,0.47591 -0.4759,0.87565 -0.90102,1.12944 0.412444,-0.0444 0.812191,-0.1587 1.180202,-0.31726 -0.279143,0.40608 -0.628147,0.76775 -1.027895,1.05964 z"
@@ -250,9 +245,14 @@
              x="-171.72594"
              y="385.10834"
              style="text-align:start;text-anchor:start;fill:#149d3d;fill-opacity:1;stroke-width:1px" /></flowRegion><flowPara
-           id="flowPara460">OLS-7 - Feb to June, 2023</flowPara><flowPara
-           id="flowPara1509">OLS-8 - Sep , 2023 to Jan, 2024</flowPara></flowRoot>
-      <flowRoot
+           id="flowPara460"
+           style="-inkscape-font-specification:'Raleway Bold';font-family:Raleway;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">OLS-7 - <flowSpan
+   style="-inkscape-font-specification:Raleway;font-family:Raleway;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan1055">Feb to June, 2023</flowSpan></flowPara><flowPara
+           id="flowPara1509"
+           style="-inkscape-font-specification:'Raleway Bold';font-family:Raleway;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">OLS-8 - <flowSpan
+   style="-inkscape-font-specification:Raleway;font-family:Raleway;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan1057">Sep , 2023 to Jan, 2024</flowSpan></flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot2186-7-8"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -265,8 +265,8 @@
              x="-171.72594"
              y="385.10834"
              style="fill:#149d3d;fill-opacity:1" /></flowRegion><flowPara
-           id="flowPara2192-38-7">Individual or team mentoring</flowPara></flowRoot>
-      <flowRoot
+           id="flowPara2192-38-7"
+           style="-inkscape-font-specification:'Raleway Bold';font-family:Raleway;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Individual or team mentoring</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot2186-7-8-1"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -279,13 +279,12 @@
              x="-171.72594"
              y="385.10834"
              style="text-align:start;text-anchor:start;fill:#149d3d;fill-opacity:1;" /></flowRegion><flowPara
-           id="flowPara2192-38-7-8">Training calls on Open Science</flowPara><flowPara
-           id="flowPara2674"><flowSpan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#149d3d;fill-opacity:1"
-             id="flowSpan2678">Talks from experts</flowSpan></flowPara><flowPara
+           id="flowPara2192-38-7-8"
+           style="-inkscape-font-specification:'Raleway Bold';font-family:Raleway;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Training calls on Open Science</flowPara><flowPara
+           id="flowPara2674"
+           style="-inkscape-font-specification:Raleway;font-family:Raleway;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Talks from experts</flowPara><flowPara
            id="flowPara2676"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#149d3d;fill-opacity:1">Break out discussions</flowPara></flowRoot>
-      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#149d3d;fill-opacity:1">Break out discussions</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot2186-7-8-7"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -298,8 +297,8 @@
              x="-171.72594"
              y="385.10834"
              style="fill:#149d3d;fill-opacity:1;" /></flowRegion><flowPara
-           id="flowPara2192-38-7-4">Training for mentors</flowPara></flowRoot>
-      <path
+           id="flowPara2192-38-7-4"
+           style="-inkscape-font-specification:'Raleway Bold';font-family:Raleway;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Training for mentors</flowPara></flowRoot>      <path
          inkscape:connector-curvature="0"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#149d3d;fill-opacity:1;stroke:none;stroke-width:1.58749998;marker:none;enable-background:accumulate"
          d="m 20.098311,144.26563 c -1.72853,0 -3.1502,1.42445 -3.1502,3.15846 0,1.73401 1.42167,3.15846 3.1502,3.15846 1.72852,0 3.15019,-1.42445 3.15019,-3.15846 0,-1.73401 -1.42167,-3.15846 -3.15019,-3.15846 z m 0,1.5875 c 0.87193,0 1.56269,0.69626 1.56269,1.57096 0,0.8747 -0.69076,1.56269 -1.56269,1.56269 -0.87194,0 -1.5627,-0.68799 -1.5627,-1.56269 0,-0.8747 0.69076,-1.57096 1.5627,-1.57096 z m 12.220441,0.92604 c -1.72853,0 -3.1502,1.42445 -3.1502,3.15846 0,1.73401 1.42167,3.15846 3.1502,3.15846 1.72853,0 3.1502,-1.42445 3.1502,-3.15846 0,-1.73401 -1.42167,-3.15846 -3.1502,-3.15846 z m 0,1.59577 c 0.87194,0 1.5627,0.68799 1.5627,1.56269 0,0.8747 -0.69076,1.5627 -1.5627,1.5627 -0.87194,0 -1.5627,-0.688 -1.5627,-1.5627 0,-0.8747 0.69076,-1.56269 1.5627,-1.56269 z m -12.220441,2.97656 c -3.18997,0 -5.79603,2.55434 -5.79603,5.71334 v 4.52273 a 0.79382937,0.79382937 0 0 0 0.79375,0.79375 h 16.652211 a 0.79382937,0.79382937 0 1 0 0,-1.5875 H 15.889781 v -3.72898 c 0,-2.29269 1.85534,-4.12584 4.20853,-4.12584 2.35318,0 4.20853,1.83315 4.20853,4.12584 v 1.95957 a 0.79382937,0.79382937 0 1 0 1.587501,0 v -1.95957 c 0,-3.159 -2.606071,-5.71334 -5.796031,-5.71334 z m 12.220441,2.51354 c -2.97515,0 -5.44548,2.21599 -5.76296,5.08496 a 0.79437811,0.79437811 0 1 0 1.57924,0.17363 c 0.22876,-2.0673 1.98901,-3.67109 4.18372,-3.67109 2.35318,0 4.20853,1.83315 4.20853,4.12585 v 3.73724 h -9.21081 a 0.79382937,0.79382937 0 1 0 0,1.5875 h 10.00456 a 0.79382937,0.79382937 0 0 0 0.79375,-0.79375 v -4.53099 c 0,-3.159 -2.60607,-5.71335 -5.79603,-5.71335 z"
