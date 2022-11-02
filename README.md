@@ -6,4 +6,4 @@
  Perseverance
  Masked cohort
  Add Github Social Preview
- 
+ Add open seed cohort logo. (Hope)
