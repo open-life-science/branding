@@ -7,7 +7,7 @@ Certificates for awardees can be automatically generated using the [NextGenerato
 1. Install the extension by following [Inkscape instructions](https://inkscape.org/fr/gallery/=extension/)
 2. Create a CSV
     - 2 columns (name, project)
-    - 1st line being `name,project`
+    - 1st line being `name,project` (WARNING: in the cvs file, be mindfull that the first line shouldn't have any capital letters, like "Name, Project"; it should all be lower case)
     - one line per awardee
 3. Open the SVG file with the certificate
 4. Run the NextGenerator extension
