@@ -19,12 +19,12 @@ The color palette is designed to evoke specific emotions and associations
 
 ## Usage Guidelines
 
-When utilizing our brand assets, adhere to the following guidelines:
+When utilizing our brand assets, we recommend (but do not require) the following guidelines:
 
 1. **Consistency**: Always use the approved fonts, colors, and logos to maintain a unified brand presence.
 2. **Clear Space**: Ensure sufficient clear space around the logo and other assets to preserve their visibility and impact.
 3. **Scaling**: Do not alter the aspect ratio of logos or graphics when resizing. Always maintain proportions.
-4. **Prohibited Usage**: Avoid any modifications to our branding assets that could dilute or misrepresent our brand's message.
+4. **Usage that conflicts with OLS's values**: Avoid any modifications to our branding assets that could misrepresent our message.
 5. **Placement**: Place logos and branding elements prominently but unobtrusively, ensuring they don't interfere with the content's focus.
 6. **Digital Platforms**: Follow platform-specific guidelines for logos and graphics when creating content for social media, websites, etc.
 7. **Print Materials**: Use high-resolution assets for print materials to maintain quality.
