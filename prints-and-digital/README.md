@@ -12,6 +12,7 @@ This folder contains the following brand assets:
 - Social Media Assets
 - letterheads
 
+
 ## Purpose
 
 The assets in this folder are carefully curated to represent our brand identity accurately and maintain a cohesive visual presence across various marketing channels. Whether you're creating printed materials for events, distributing flyers, or managing social media campaigns, these assets will help you maintain a professional and consistent brand image.
@@ -23,5 +24,17 @@ To ensure consistent branding, please adhere to the following guidelines:
 1. Use the provided assets for all official marketing and promotional materials.
 2. Do not alter the core elements of the assets, such as logos and primary colors, without approval from the Branding Team.
 3. When using social media assets, follow the recommended dimensions and formats for each platform to optimize visibility.
+
+## How to order merch:
+
+Different team members have used diffferent providers, and these are some on the ones we have used in the past: 
+- https://www.totalmerchandise.co.uk/branded-products/promotional-lifestyle-and-outdoor/seed-sticks-5-pack
+- https://zapcreatives.com/
+- Hippoprint
+- Moo
+
+We make an intentional effort on not using Stickermule since it has been associated with unethical behaviour and practices that we, from OLS do not support. 
+Please have in mind this kind of considerations when choosing providers, if ppossibel at all. 
+
 
 **Thank you!**
