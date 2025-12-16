@@ -33,7 +33,7 @@ Different team members have used diffferent providers, and these are some on the
 - [Hippoprint] (https://hippoprint.co.uk/)
 - [Moo] (https://www.moo.com/uk/)
 
-We make an intentional effort to avoid Stickermule since it has been associated with unethical behaviour and practices that we, from OLS do not support. 
+We make an intentional effort to avoid Stickermule since it has been allegedly associated with unethical behaviour and practices that we, from OLS do not support. 
 Please have in mind this kind of considerations when choosing providers, if possible at all. 
 
 
