@@ -17,6 +17,10 @@ The font has been carefully selected to reflect our brand's personality and enha
 
 The color palette is designed to evoke specific emotions and associations
 
+## Zoom timer app sounds
+
+The only approved sound is "Vamos". 
+
 ## Usage Guidelines
 
 When utilizing our brand assets, we recommend (but do not require) the following guidelines:
